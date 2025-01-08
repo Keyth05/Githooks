@@ -1,2 +1,2 @@
 // index.js
-console.log("Hello, this is a test for Git Hooks!");
+console.log("Hi, this is a test for Git Hooks!");
